@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_back" android:title="Back"
+        android:icon="@drawable/back" app:showAsAction="always"/>
+
+    <item android:id="@+id/action_dial" android:title="Call"
+        android:icon="@drawable/call" app:showAsAction="always"/>
+
+    <item android:id="@+id/action_share" android:title="Share"
+        android:icon="@drawable/share" app:showAsAction="always"/>
+
+    <item android:id="@+id/action_website" android:title="Website"
+        android:icon="@drawable/website" app:showAsAction="always"/>
+
+    <item android:id="@+id/action_edit" android:title="Edit"
+        android:icon="@drawable/edit" app:showAsAction="never"/>
+</menu>

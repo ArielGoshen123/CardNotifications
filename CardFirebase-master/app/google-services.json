@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574680545077",
+    "project_id": "card-444bc",
+    "storage_bucket": "card-444bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574680545077:android:b6734accbc4dd8ca33be7c",
+        "android_client_info": {
+          "package_name": "com.example.carder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSO4_LC6b5eedQKXUGl4E4zotSBG1u-LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
